@@ -23,9 +23,6 @@ Assemble the chassis and mount all components securely.
 2. Software Setup
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/arachne-1.0.git
 Open the Code in Arduino IDE.
 
 Install Required Libraries:
